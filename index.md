@@ -32,11 +32,9 @@ Buen uso de la computadora, buen trato a los clientes y eficiente productividad.
 *   Habilidades multitareas.
 *   Fuertes habilidades de comunicacion.
 
-##### Header 5
+##### HOBBIES:
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+* Viajar, escuchar, musica, estar en familia y aprender cosas nuevas.
 
 ###### Header 6
 
