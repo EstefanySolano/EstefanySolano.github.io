@@ -6,6 +6,7 @@ SOLANO CASTRO ESTEFANY YAMILE.
 
 CURRICULUM VITAE.
 
+
 Actualmente tengo 17 años, estudio en la carrera de Ofimatica en el "CETIS 32"
 
 # PERFIL PERSONAL.
