@@ -4,15 +4,15 @@ layout: default
 
 SOLANO CASTRO ESTEFANY YAMILE.
 
-[Link to another page](./another-page.html).
+CURRICULUM VITAE.
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# PERFIL PERSONAL.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Buen uso de la computadora, buen trato a los clientes y eficiente productividad.
 
 ## Header 2
 
