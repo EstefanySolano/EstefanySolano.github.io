@@ -34,7 +34,10 @@ Buen uso de la computadora, buen trato a los clientes y eficiente productividad.
 
 ##### HOBBIES:
 
-1. Viajar, escuchar, musica, estar en familia y aprender cosas nuevas.
+1. Viajar
+2. Escuchra musica
+3. Aprender cosas nuevas
+4. Estar en familia
 
 ###### Header 6
 
