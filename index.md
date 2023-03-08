@@ -5,8 +5,7 @@ layout: default
 SOLANO CASTRO ESTEFANY YAMILE.
 
 CURRICULUM VITAE.
-ESTUDISO CURSADOS.
-
+#  ESTUDISOS CURSADOS.
 A lo largo de mi vida he estudiado en varias escuelas comenzando por el kinder fue en "ITZEL LUCERO", despues estuve en la primaria "CARMEN SERDAN" hasta tercer grado  y despues me cambiaron a la primaria "JOHN F. KENEDYY" en la cual obtuve buenos conocimientos basicos, entre a la secundaria "RENE CASSIN"  en la cual descubri nuevas habilidades y desarrolle mejor mis talentos fue una proceso de aprendizaje bastante complicado per sin encambio es en el cual pude recabar mas conocimientos fue una buena etapa, al termianr ahi realice mi examen para entrar a  la media superior y me quede en el "CETIS 32" fue una muy buena desicion porque amplio mi panorama y mis conocimietos se han refrozado mejor  ya tengo un amplio y mas actualizado aprendizaje..     
 Actualmente tengo 17 años, estudio en la carrera de Ofimatica en el "CETIS 32"
 
@@ -16,9 +15,10 @@ Buen uso de la computadora, buen trato a los clientes y eficiente productividad.
 
 ## DATOS PERSONALES:
 
-E Correo electronico: solanoyamile60@gmail.com
- Telefono: 5612625778
- Estado civil: Soltera.
+ 1.Correo electronico: solanoyamile60@gmail.com
+ 2.Telefono: 5612625778
+ 3.Estado civil: Soltera.
+ 4.Fecha de naciemiento: 18 de Agosto de 2005.
  
 
 
@@ -35,6 +35,7 @@ E Correo electronico: solanoyamile60@gmail.com
 *   Habilidades multitareas.
 *   Fuertes habilidades de comunicacion.
 
+
 ##### HOBBIES:
 
 1. Viajar
@@ -49,19 +50,4 @@ E Correo electronico: solanoyamile60@gmail.com
 1.  Empleada en tiendad de ropa, en un periodo de dos años en el area de ventas en las cuales desarrolle mas mi habilidaad de comunicaciony atencion al cliente.
 
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
