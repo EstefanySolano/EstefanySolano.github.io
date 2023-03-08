@@ -2,10 +2,10 @@ title: DATOS PERSONALES.
 ocupacion: Estudiante.
 email: solanoyamile60@gmail.com
 description:
-* OCUPACION: Estudiante.
-* FECHA DE NACIMIENTO: 18 de agosto de 2005.
-* ESTADO CIVIL: Soltera.
-* TELEFONO: 5612625778
+* ocupacion: Estudiante.
+* fecha de nacimiento: 18 de agosto de 2005.
+* estado civil: Soltera.
+* telefono: 5612625778
 
 favicon: true
 color-scheme: auto
