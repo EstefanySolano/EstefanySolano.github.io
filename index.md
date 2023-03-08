@@ -13,11 +13,13 @@ Actualmente tengo 17 años, estudio en la carrera de Ofimatica en el "CETIS 32"
 
 Buen uso de la computadora, buen trato a los clientes y eficiente productividad.
 
-## Header 2
+## DATOS PERSONALES:
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Ocupacion: Estudiante.
+> Correo electronico: solanoyamile60@gmail.com
+> Telefono: 5612625778
+> Estado civil: Soltera.
+> 
 
 
 #### COMPETENCIAS.
