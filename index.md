@@ -37,11 +37,18 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### COMPETENCIAS.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Compromiso.
+*   Iniciativa.
+*   Resolucion de problemas.
+*   Trabajo bajo presion.
+*   Organizacion.
+*   Responsabilidad.
+*   Liderazgo.
+*   Creatividad.
+*   Habilidades multitareas.
+*   Fuertes habilidades de comunicacion.
 
 ##### Header 5
 
