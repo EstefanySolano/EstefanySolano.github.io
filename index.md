@@ -6,9 +6,7 @@ SOLANO CASTRO ESTEFANY YAMILE.
 
 CURRICULUM VITAE.
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Actualmente tengo 17 años, estudio en la carrera de Ofimatica en el "CETIS 32"
 
 # PERFIL PERSONAL.
 
