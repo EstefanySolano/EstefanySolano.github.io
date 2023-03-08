@@ -6,7 +6,7 @@ SOLANO CASTRO ESTEFANY YAMILE.
 
 CURRICULUM VITAE.
 
-
+A lo largo de mi vida he estudiado en varias escuelas comenzando por el kinder fue en "ITZEL LUCERO", despues estuve en la primaria "CARMEN SERDAN" hasta tercer grado  y despues me cambiaron a la primaria "JOHN F. KENEDYY" en la cual obtuve buenos conocimientos basicos, entre a la secundaria "RENE CASSIN"  en la cual descubri nuevas habilidades y desarrolle mejor mis talentos fue una gran etapa en la cual pude recabar mas conocimientos fue una buena etapa, al termianr ahi realice mi examen para entrar a  la media superior y me quede en el "CETIS 32" fue una muy buena desicion porque amplio mi panama y mis conocimietos se han refrozado mejor  ya tengo un amplio y mas actualizado aprendizaje...
 Actualmente tengo 17 años, estudio en la carrera de Ofimatica en el "CETIS 32"
 
 # PERFIL PERSONAL.
