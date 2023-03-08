@@ -6,7 +6,7 @@ SOLANO CASTRO ESTEFANY YAMILE.
 
 CURRICULUM VITAE.
 
-A lo largo de mi vida he estudiado en varias escuelas comenzando por el kinder fue en "ITZEL LUCERO", despues estuve en la primaria "CARMEN SERDAN" hasta tercer grado  y despues me cambiaron a la primaria "JOHN F. KENEDYY" en la cual obtuve buenos conocimientos basicos, entre a la secundaria "RENE CASSIN"  en la cual descubri nuevas habilidades y desarrolle mejor mis talentos fue una gran etapa en la cual pude recabar mas conocimientos fue una buena etapa, al termianr ahi realice mi examen para entrar a  la media superior y me quede en el "CETIS 32" fue una muy buena desicion porque amplio mi panama y mis conocimietos se han refrozado mejor  ya tengo un amplio y mas actualizado aprendizaje...
+A lo largo de mi vida he estudiado en varias escuelas comenzando por el kinder fue en "ITZEL LUCERO", despues estuve en la primaria "CARMEN SERDAN" hasta tercer grado  y despues me cambiaron a la primaria "JOHN F. KENEDYY" en la cual obtuve buenos conocimientos basicos, entre a la secundaria "RENE CASSIN"  en la cual descubri nuevas habilidades y desarrolle mejor mis talentos fue una proceso de aprendizaje bastante complicado per sin encambio es en el cual pude recabar mas conocimientos fue una buena etapa, al termianr ahi realice mi examen para entrar a  la media superior y me quede en el "CETIS 32" fue una muy buena desicion porque amplio mi panorama y mis conocimietos se han refrozado mejor  ya tengo un amplio y mas actualizado aprendizaje..     
 Actualmente tengo 17 años, estudio en la carrera de Ofimatica en el "CETIS 32"
 
 # PERFIL PERSONAL.
@@ -15,11 +15,11 @@ Buen uso de la computadora, buen trato a los clientes y eficiente productividad.
 
 ## DATOS PERSONALES:
 
-> Ocupacion: Estudiante.
-> Correo electronico: solanoyamile60@gmail.com
-> Telefono: 5612625778
-> Estado civil: Soltera.
-> 
+ Ocupacion: Estudiante.
+ Correo electronico: solanoyamile60@gmail.com
+ Telefono: 5612625778
+ Estado civil: Soltera.
+ 
 
 
 #### COMPETENCIAS.
@@ -42,32 +42,12 @@ Buen uso de la computadora, buen trato a los clientes y eficiente productividad.
 3. Aprender cosas nuevas
 4. Estar en familia
 
-###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+### EXPERIENCIA LABORAL.
 
-* * *
+1.  Empleada en tiendad de ropa, en un periodo de dos años en el area de ventas en las cuales desarrolle mas mi habilidaad de comunicaciony atencion al cliente.
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
 
 ### And a nested list:
 
@@ -85,32 +65,3 @@ Buen uso de la computadora, buen trato a los clientes y eficiente productividad.
   - level 2 item
 - level 1 item
 
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://github.com/vaibhavvikas/vaibhavvikas/raw/main/src/header_.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
