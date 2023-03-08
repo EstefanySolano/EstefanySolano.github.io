@@ -48,6 +48,6 @@ Buen uso de la computadora, buen trato a los clientes y eficiente productividad.
 ### EXPERIENCIA LABORAL.
 
 1.  Empleada en tiendad de ropa, en un periodo de dos años en el area de ventas en las cuales desarrolle mas mi habilidaad de comunicaciony atencion al cliente.
-
+2. Realizo mi servicio oscila en un PILARES en el area de Administracion y recursos humanos.
 
 
